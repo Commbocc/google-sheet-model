@@ -15,7 +15,7 @@
 </div>
 
 <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
-<script src="./dist/build.js"></script>
+<script src="https://commbocc.github.io/google-sheet-model/dist/build.js"></script>
 <script type="text/javascript">
 new Vue({
   el: '#app',
