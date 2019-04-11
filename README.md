@@ -1,3 +1,5 @@
+**This project is no longer maintained, please use [vue-google-sheet-model](https://github.com/Commbocc/vue-google-sheet-model)**
+
 # google-sheet-model
 
 > A Vue.js project
